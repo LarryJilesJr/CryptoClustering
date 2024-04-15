@@ -49,3 +49,11 @@ Chat GPT Provider: OpenAI Model Version: GPT-3.5 Training Data: Diverse internet
 Class Videos
 
 Stackoverflow
+
+![Market Data line plot](image.png)
+![Elbow Market Curve](image-1.png)
+![Market Data Predictions scatter plot](image-2.png)
+![PCA Elbow Curve](image-3.png)
+![PCA Cluster Predictions scatter plot](image-4.png)
+![Original Data vs. PCA Data Elbow Curves](image-5.png)
+![Original Data Clusters vs PCA Data Clusters scatter plots](image-6.png)
